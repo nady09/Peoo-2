@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Retanguloapp/1.0.0": {
+        "runtime": {
+          "Retanguloapp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Retanguloapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
